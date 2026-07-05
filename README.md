@@ -29,7 +29,8 @@ Users can:
 
 # 🚀 Live Demo
 
-coffiee-shop-eerx2qgyi-deva-fullstock-2026.vercel.app
+https://coffiee-shop.vercel.app
+
 
 ---
 
