@@ -1,43 +1,100 @@
-# ☕ Coffee Shop
+<div align="center">
 
-A modern Coffee Shop web application built using React.js. Users can browse coffee products, add items to the cart, and enjoy a clean, responsive interface.
+# ☕ Haadhya Coffee
 
-## 🚀 Live Demo
+### Modern React Coffee Shop Web Application
 
-https://coffiee-shop-lime.vercel.app/
+[![React](https://img.shields.io/badge/React-18-blue?logo=react)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)]()
+[![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)]()
+[![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)]()
+[![Vercel](https://img.shields.io/badge/Live-Vercel-black?logo=vercel)]()
 
-## ✨ Features
+</div>
 
-- ☕ Browse Coffee Menu
-- 🛒 Add Products to Cart
+---
+
+## 📖 About
+
+**Haadhya Coffee** is a modern Coffee Shop web application built using **React.js**.
+
+Users can:
+
+- ☕ Browse premium coffee products
+- 🛒 Add products to cart
+- 💰 View product prices
+- 📱 Enjoy a fully responsive design
+
+---
+
+# 🚀 Live Demo
+
+👉 https://coffee-shop-lime.vercel.app/
+
+---
+
+# 📸 Project Screenshot
+
+![Haadhya Coffee](screenshots/home.png)
+
+---
+
+# ✨ Features
+
+- ☕ Coffee Menu
+- 🛒 Shopping Cart
 - 💰 Product Price Display
 - 📱 Responsive Design
-- ⚛️ React Functional Components
-- 🎨 Modern UI Design
-## 📸 Screenshots
+- ⚛ React Functional Components
+- 🎨 Modern Dark UI
+- ⚡ Fast Performance
 
-### Home Page
+---
 
-![Home Page](screenshots/home.png)
-
-## 🛠️ Technologies Used
+# 🛠 Tech Stack
 
 - React.js
 - JavaScript
 - HTML5
 - CSS3
 
-## 📦 Installation
+---
+
+# 📂 Folder Structure
+
+```
+src
+ ┣ assets
+ ┣ components
+ ┣ hooks
+ ┣ Router
+ ┣ App.js
+ ┗ index.js
+```
+
+---
+
+# ⚙ Installation
 
 ```bash
 git clone https://github.com/DEVAS1511/Coffiee-Shop.git
+
 cd Coffiee-Shop
+
 npm install
+
 npm start
 ```
 
-## 👨‍💻 Developer
+---
 
-**Devas1511**
+# 👨‍💻 Developer
 
-GitHub: https://github.com/DEVAS1511
+**DEVAS1511**
+
+GitHub:
+https://github.com/DEVAS1511
+
+---
+
+⭐ If you like this project, don't forget to Star the repository!
