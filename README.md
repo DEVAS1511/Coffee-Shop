@@ -36,7 +36,8 @@ https://coffiee-shop.vercel.app
 
 # 📸 Project Screenshot
 
-![Haadhya Coffee](screenshots/home.png)
+![Uploading Screenshot_5-7-2026_104948_localhost.jpeg…]()
+
 
 ---
 
