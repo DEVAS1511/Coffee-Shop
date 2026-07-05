@@ -14,6 +14,11 @@ https://coffiee-shop-lime.vercel.app/
 - 📱 Responsive Design
 - ⚛️ React Functional Components
 - 🎨 Modern UI Design
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home.png)
 
 ## 🛠️ Technologies Used
 
