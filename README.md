@@ -29,7 +29,7 @@ Users can:
 
 # 🚀 Live Demo
 
-👉 https://coffee-shop-lime.vercel.app/
+coffiee-shop-eerx2qgyi-deva-fullstock-2026.vercel.app
 
 ---
 
