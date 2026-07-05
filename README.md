@@ -36,7 +36,6 @@ https://coffiee-shop.vercel.app
 
 # 📸 Project Screenshot
 
-![Uploading Screenshot_5-7-2026_104948_localhost.jpeg…]()
 
 
 ---
